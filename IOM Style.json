@@ -1,6 +1,7 @@
 {
     "actions": {
         "button": {
+            "backgroundColor": "#4CAF50",
             "maxWidth": 300,
             "minWidth": 100,
             "maxHeight": 50,
